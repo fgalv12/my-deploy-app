@@ -2,9 +2,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
   margin: 0;
   background-image: linear-gradient(to right, #6f5fff, #7bbcfe);
+  min-height: 100vh;
 }
 
 h1 {
